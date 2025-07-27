@@ -1,0 +1,18 @@
+name = "water-resources-data-hub"
+version = "1.0.0"
+author = "Afshin Shabani"
+email = "afshin.shabani@tetratech.com"
+description = "A comprehensive environmental data downloader for USGS, NOAA, and EPA data sources"
+
+[dependencies]
+pandas = ">=1.3.0"
+geopandas = ">=0.10.0"
+requests = ">=2.25.0"
+matplotlib = ">=3.3.0"
+folium = ">=0.12.0"
+contextily = ">=1.1.0"
+numpy = ">=1.20.0"
+Pillow = ">=8.0.0"
+dataretrieval = ">=1.0.0"
+ttkthemes = ">=3.2.0"
+tkcalendar = ">=1.6.0"
