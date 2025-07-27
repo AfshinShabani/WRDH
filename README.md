@@ -266,7 +266,7 @@ If you use WRDH in your research, please cite:
   title={Water Resources Data Hub (WRDH): A Comprehensive Environmental Data Downloader},
   author={Shabani, Afshin},
   year={2025},
-  url={https://github.com/yourusername/WRDH},
+  url={https://github.com/AfshinShabani/WRDH},
   version={1.0.0}
 }
 ```
