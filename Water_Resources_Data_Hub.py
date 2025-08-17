@@ -1,7 +1,7 @@
 """
 Water Resources Data Hub (WRDH) - Main Application
 
-A comprehensive desktop application for downloading and analyzing environmental data 
+A desktop application for downloading and analyzing hydrology and water quality observations
 from USGS, NOAA, and EPA sources. Features a tabbed GUI interface with interactive 
 boundary drawing, automated data processing, and built-in visualization capabilities.
 
@@ -3292,3 +3292,4 @@ if __name__ == "__main__":
     
     # Start the main loop
     root.mainloop()
+
