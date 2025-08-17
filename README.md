@@ -1,5 +1,5 @@
 # Water Resources Data Hub (WRDH)
-A desktop application for downloading and analyzing environmental data from multiple government agencies including USGS, NOAA, and EPA.
+A desktop application for downloading hyrology and water quality observations from USGS, NOAA, and EPA.
 <img width="1024" height="1024" alt="WRDH" src="https://github.com/user-attachments/assets/07d18391-fa76-4f14-9f46-0b938d4e69a7" />
 ## 🌊 Overview
 The Water Resources Data Hub (WRDH) is a powerful, user-friendly application designed for researchers, engineers, and environmental professionals who need to access and analyze hydrological and environmental data. It provides a unified interface to download data from multiple government sources and automatically processes it for analysis.
