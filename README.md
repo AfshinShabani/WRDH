@@ -244,19 +244,6 @@ Enable verbose error reporting in the GUI settings for detailed error messages.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Afshin Shabani**
-- Email: afshin.shabani@tetratech.com
-- Organization: Tetra Tech
-
-## 🙏 Acknowledgments
-
-- **USGS** for providing comprehensive water monitoring data
-- **NOAA** for oceanographic and meteorological datasets  
-- **EPA** for water quality monitoring information
-- **Open Source Community** for the excellent Python geospatial libraries
-
 ## 📚 Citation
 
 If you use WRDH in your research, please cite:
