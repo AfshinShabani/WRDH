@@ -45,7 +45,7 @@ Internet connection for data downloads
 ### Installation
 
 1. **Download the executable** (Recommended for most users):
-   - Download `WRDH.exe` from the [Releases](https://github.com/AfshinShabani/WRDH/releases) page
+   - Download `WRDH.exe` from the [Releases](https://wrdh.s3.us-east-2.amazonaws.com/WRDH.zip) page
    - No installation required - just run the executable
 
 2. **Run from source** (For developers):
